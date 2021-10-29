@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1022581054797",
+    "project_id": "flutter-and-firebase-743ab",
+    "storage_bucket": "flutter-and-firebase-743ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1022581054797:android:de0864bd1bf445ab192b04",
+        "android_client_info": {
+          "package_name": "com.voidtech.flutter_and_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1022581054797-520l74r952afn8i3heot8kt7nf4tn9k6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsVTCqMxIqLOE9TXgYnrp0FAlgHVwC8y8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1022581054797-520l74r952afn8i3heot8kt7nf4tn9k6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
